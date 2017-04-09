@@ -40,3 +40,6 @@ _ReSharper*
 packages
 
 *.nupkg
+
+#AppData
+App_Data
